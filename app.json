@@ -1,0 +1,10 @@
+{
+  "name": "My PY demo",
+  "description": "This is a demo button for Python",
+  "repository": "https://github.com/sarveshahuja/PyDemo.git",
+  "logo": "http://www.crossfadr.com/wp-content/uploads/2014/01/Electronic-Dance-Music-Wallpaper1.jpg",
+  "keywords": [
+    "sunny",
+    "python"
+  ]
+}
